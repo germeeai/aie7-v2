@@ -24,3 +24,11 @@ Rewrite the following paragraph in a professional, formal tone…
 Aspect Tested:
 Ability to change tone, language skills
 I used the creative story about a robot finding friendship in an unexpected place.  The LLM used more formal words, but kept it creative.
+
+
+🧑‍🤝‍🧑❓ Discussion Question #1:
+
+What are some limitations of vibe checking as an evaluation tool?
+1. Subjective, as it is based on the person doing the vibe checking
+2. Not scalable
+3. No clear criteria and objective metrics
